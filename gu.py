@@ -1,1 +1,1 @@
-print("Como tamo muchacho)
+print("Como tamo muchacho")
